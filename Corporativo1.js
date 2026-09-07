@@ -1,7 +1,7 @@
 
 
 let btn = document.getElementById("buttonUpload").addEventListener("click", enviarTexto);
-let  api= "https://66557ed93c1d3b602939bbfd.mockapi.io/vr/prompt/5";
+let  api= "https://66557ed93c1d3b602939bbfd.mockapi.io/vr/prompt/7";
 function enviarTexto() {
 
 
